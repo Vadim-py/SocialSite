@@ -1,0 +1,22 @@
+.formLog{
+    margin-top: -25%;
+    transform: translate(1000px, 0);
+}
+
+input[type=text], input[type=password]{
+    padding: 5px 8px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+input[type=submit]{
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 5px 8px;
+    text-decoration: none;
+    margin: 2px 1px;
+    cursor: pointer;
+}
